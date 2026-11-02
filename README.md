@@ -1,4 +1,4 @@
-# Experiment 2: Image Acquisition and Video Processing Using OpenCV
+## EXP-2-Record-Image Acquisition using Web Camera
 
 **Name:** Mithik jain G  
 **Register Number:** 212224240087  
